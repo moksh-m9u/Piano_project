@@ -1,0 +1,6 @@
+numpy
+mediapipe
+threading
+opencv-python
+cvzone
+pygame
